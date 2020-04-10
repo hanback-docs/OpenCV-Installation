@@ -17,7 +17,7 @@
     
 <br><br>
 
-## 2. 설치 파일 다운로드 (Download the installation file)
+## 2. 설치 파일 소스 다운로드 (Download the installation file source)
     wget -O opencv.zip https://github.com/opencv/opencv/archive/4.2.0.zip
     wget -O opencv_contrib.zip https://github.com/opencv/opencv_contrib/archive/4.2.0.zip
     unzip opencv.zip
